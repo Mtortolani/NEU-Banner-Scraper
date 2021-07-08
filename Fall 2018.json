@@ -1,0 +1,1375 @@
+{
+    "success": true,
+    "totalCount": 5552,
+    "data": 
+    [
+      {
+        "id": 192379,
+        "term": "201910",
+        "termDesc": "Fall 2018 Semester",
+        "courseReferenceNumber": "10589",
+        "partOfTerm": "1",
+        "courseNumber": "1201",
+        "subject": "ACCT",
+        "subjectDescription": "Accounting",
+        "sequenceNumber": "01",
+        "campusDescription": "Boston",
+        "scheduleTypeDescription": "Lecture",
+        "courseTitle": "Financial Accounting and Reporting",
+        "creditHours": null,
+        "maximumEnrollment": 40,
+        "enrollment": 41,
+        "seatsAvailable": -1,
+        "waitCapacity": 0,
+        "waitCount": 0,
+        "waitAvailable": 0,
+        "crossList": null,
+        "crossListCapacity": null,
+        "crossListCount": null,
+        "crossListAvailable": null,
+        "creditHourHigh": null,
+        "creditHourLow": 4,
+        "creditHourIndicator": null,
+        "openSection": false,
+        "linkIdentifier": null,
+        "isSectionLinked": false,
+        "subjectCourse": "ACCT1201",
+        "faculty": 
+        [
+          {
+            "bannerId": "846991",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "10589",
+            "displayName": "Dodgson, Mary",
+            "emailAddress": null,
+            "primaryIndicator": true,
+            "term": "201910"
+          }
+        ],
+        "meetingsFaculty": 
+        [
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "10589",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "0800",
+              "building": "DG",
+              "buildingDescription": "Dodge Hall",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "10589",
+              "creditHourSession": 4.0,
+              "endDate": "12/05/2018",
+              "endTime": "0905",
+              "friday": false,
+              "hoursWeek": 3.25,
+              "meetingScheduleType": "LEC",
+              "meetingType": "CLAS",
+              "meetingTypeDescription": "Class",
+              "monday": true,
+              "room": "230",
+              "saturday": false,
+              "startDate": "09/05/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": true,
+              "tuesday": false,
+              "wednesday": true
+            },
+            "term": "201910"
+          },
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "10589",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1030",
+              "building": "ISEC",
+              "buildingDescription": "Science Engineering Complex",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "10589",
+              "creditHourSession": 0.0,
+              "endDate": "12/10/2018",
+              "endTime": "1230",
+              "friday": false,
+              "hoursWeek": 2.0,
+              "meetingScheduleType": "LEC",
+              "meetingType": "FNEX",
+              "meetingTypeDescription": "Final Exam",
+              "monday": true,
+              "room": "102",
+              "saturday": false,
+              "startDate": "12/10/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": false,
+              "tuesday": false,
+              "wednesday": false
+            },
+            "term": "201910"
+          }
+        ],
+        "reservedSeatSummary": null,
+        "sectionAttributes": 
+        [
+          {
+            "class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+            "code": "UBBA",
+            "courseReferenceNumber": "10589",
+            "description": "Business Admin",
+            "isZTCAttribute": false,
+            "termCode": "201910"
+          }
+        ]
+      },
+      {
+        "id": 192378,
+        "term": "201910",
+        "termDesc": "Fall 2018 Semester",
+        "courseReferenceNumber": "10588",
+        "partOfTerm": "1",
+        "courseNumber": "1201",
+        "subject": "ACCT",
+        "subjectDescription": "Accounting",
+        "sequenceNumber": "02",
+        "campusDescription": "Boston",
+        "scheduleTypeDescription": "Lecture",
+        "courseTitle": "Financial Accounting and Reporting",
+        "creditHours": null,
+        "maximumEnrollment": 40,
+        "enrollment": 41,
+        "seatsAvailable": -1,
+        "waitCapacity": 0,
+        "waitCount": 0,
+        "waitAvailable": 0,
+        "crossList": null,
+        "crossListCapacity": null,
+        "crossListCount": null,
+        "crossListAvailable": null,
+        "creditHourHigh": null,
+        "creditHourLow": 4,
+        "creditHourIndicator": null,
+        "openSection": false,
+        "linkIdentifier": null,
+        "isSectionLinked": false,
+        "subjectCourse": "ACCT1201",
+        "faculty": 
+        [
+          {
+            "bannerId": "846991",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "10588",
+            "displayName": "Dodgson, Mary",
+            "emailAddress": null,
+            "primaryIndicator": true,
+            "term": "201910"
+          }
+        ],
+        "meetingsFaculty": 
+        [
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "10588",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "0915",
+              "building": "DG",
+              "buildingDescription": "Dodge Hall",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "10588",
+              "creditHourSession": 4.0,
+              "endDate": "12/05/2018",
+              "endTime": "1020",
+              "friday": false,
+              "hoursWeek": 3.25,
+              "meetingScheduleType": "LEC",
+              "meetingType": "CLAS",
+              "meetingTypeDescription": "Class",
+              "monday": true,
+              "room": "230",
+              "saturday": false,
+              "startDate": "09/05/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": true,
+              "tuesday": false,
+              "wednesday": true
+            },
+            "term": "201910"
+          },
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "10588",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1030",
+              "building": "ISEC",
+              "buildingDescription": "Science Engineering Complex",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "10588",
+              "creditHourSession": 0.0,
+              "endDate": "12/10/2018",
+              "endTime": "1230",
+              "friday": false,
+              "hoursWeek": 2.0,
+              "meetingScheduleType": "LEC",
+              "meetingType": "FNEX",
+              "meetingTypeDescription": "Final Exam",
+              "monday": true,
+              "room": "102",
+              "saturday": false,
+              "startDate": "12/10/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": false,
+              "tuesday": false,
+              "wednesday": false
+            },
+            "term": "201910"
+          }
+        ],
+        "reservedSeatSummary": null,
+        "sectionAttributes": 
+        [
+          {
+            "class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+            "code": "UBBA",
+            "courseReferenceNumber": "10588",
+            "description": "Business Admin",
+            "isZTCAttribute": false,
+            "termCode": "201910"
+          }
+        ]
+      },
+      {
+        "id": 195698,
+        "term": "201910",
+        "termDesc": "Fall 2018 Semester",
+        "courseReferenceNumber": "13908",
+        "partOfTerm": "1",
+        "courseNumber": "1201",
+        "subject": "ACCT",
+        "subjectDescription": "Accounting",
+        "sequenceNumber": "03",
+        "campusDescription": "Boston",
+        "scheduleTypeDescription": "Lecture",
+        "courseTitle": "Fin Accounting&amp;Reporting",
+        "creditHours": null,
+        "maximumEnrollment": 40,
+        "enrollment": 41,
+        "seatsAvailable": -1,
+        "waitCapacity": 0,
+        "waitCount": 0,
+        "waitAvailable": 0,
+        "crossList": null,
+        "crossListCapacity": null,
+        "crossListCount": null,
+        "crossListAvailable": null,
+        "creditHourHigh": null,
+        "creditHourLow": 4,
+        "creditHourIndicator": null,
+        "openSection": false,
+        "linkIdentifier": null,
+        "isSectionLinked": false,
+        "subjectCourse": "ACCT1201",
+        "faculty": 
+        [
+          {
+            "bannerId": "846991",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "13908",
+            "displayName": "Dodgson, Mary",
+            "emailAddress": null,
+            "primaryIndicator": true,
+            "term": "201910"
+          }
+        ],
+        "meetingsFaculty": 
+        [
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "13908",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1030",
+              "building": "DG",
+              "buildingDescription": "Dodge Hall",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "13908",
+              "creditHourSession": 4.0,
+              "endDate": "12/05/2018",
+              "endTime": "1135",
+              "friday": false,
+              "hoursWeek": 3.25,
+              "meetingScheduleType": "LEC",
+              "meetingType": "CLAS",
+              "meetingTypeDescription": "Class",
+              "monday": true,
+              "room": "230",
+              "saturday": false,
+              "startDate": "09/05/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": true,
+              "tuesday": false,
+              "wednesday": true
+            },
+            "term": "201910"
+          },
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "13908",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1030",
+              "building": "ISEC",
+              "buildingDescription": "Science Engineering Complex",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "13908",
+              "creditHourSession": 0.0,
+              "endDate": "12/10/2018",
+              "endTime": "1230",
+              "friday": false,
+              "hoursWeek": 2.0,
+              "meetingScheduleType": "LEC",
+              "meetingType": "FNEX",
+              "meetingTypeDescription": "Final Exam",
+              "monday": true,
+              "room": "102",
+              "saturday": false,
+              "startDate": "12/10/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": false,
+              "tuesday": false,
+              "wednesday": false
+            },
+            "term": "201910"
+          }
+        ],
+        "reservedSeatSummary": null,
+        "sectionAttributes": 
+        [
+          {
+            "class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+            "code": "UBBA",
+            "courseReferenceNumber": "13908",
+            "description": "Business Admin",
+            "isZTCAttribute": false,
+            "termCode": "201910"
+          }
+        ]
+      },
+      {
+        "id": 192488,
+        "term": "201910",
+        "termDesc": "Fall 2018 Semester",
+        "courseReferenceNumber": "10698",
+        "partOfTerm": "1",
+        "courseNumber": "1201",
+        "subject": "ACCT",
+        "subjectDescription": "Accounting",
+        "sequenceNumber": "04",
+        "campusDescription": "Boston",
+        "scheduleTypeDescription": "Lecture",
+        "courseTitle": "Financial Accounting and Reporting",
+        "creditHours": null,
+        "maximumEnrollment": 40,
+        "enrollment": 40,
+        "seatsAvailable": 0,
+        "waitCapacity": 0,
+        "waitCount": 0,
+        "waitAvailable": 0,
+        "crossList": null,
+        "crossListCapacity": null,
+        "crossListCount": null,
+        "crossListAvailable": null,
+        "creditHourHigh": null,
+        "creditHourLow": 4,
+        "creditHourIndicator": null,
+        "openSection": false,
+        "linkIdentifier": null,
+        "isSectionLinked": false,
+        "subjectCourse": "ACCT1201",
+        "faculty": 
+        [
+          {
+            "bannerId": "846989",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "10698",
+            "displayName": "Ahn, Jaehan",
+            "emailAddress": null,
+            "primaryIndicator": true,
+            "term": "201910"
+          }
+        ],
+        "meetingsFaculty": 
+        [
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "10698",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1030",
+              "building": "SN",
+              "buildingDescription": "Snell Engineering Center",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "10698",
+              "creditHourSession": 0.0,
+              "endDate": "12/10/2018",
+              "endTime": "1230",
+              "friday": false,
+              "hoursWeek": 2.0,
+              "meetingScheduleType": "LEC",
+              "meetingType": "FNEX",
+              "meetingTypeDescription": "Final Exam",
+              "monday": true,
+              "room": "168",
+              "saturday": false,
+              "startDate": "12/10/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": false,
+              "tuesday": false,
+              "wednesday": false
+            },
+            "term": "201910"
+          },
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "10698",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1335",
+              "building": "DG",
+              "buildingDescription": "Dodge Hall",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "10698",
+              "creditHourSession": 4.0,
+              "endDate": "12/05/2018",
+              "endTime": "1440",
+              "friday": false,
+              "hoursWeek": 3.25,
+              "meetingScheduleType": "LEC",
+              "meetingType": "CLAS",
+              "meetingTypeDescription": "Class",
+              "monday": true,
+              "room": "470",
+              "saturday": false,
+              "startDate": "09/05/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": true,
+              "tuesday": false,
+              "wednesday": true
+            },
+            "term": "201910"
+          }
+        ],
+        "reservedSeatSummary": null,
+        "sectionAttributes": 
+        [
+          {
+            "class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+            "code": "UBBA",
+            "courseReferenceNumber": "10698",
+            "description": "Business Admin",
+            "isZTCAttribute": false,
+            "termCode": "201910"
+          }
+        ]
+      },
+      {
+        "id": 192377,
+        "term": "201910",
+        "termDesc": "Fall 2018 Semester",
+        "courseReferenceNumber": "10587",
+        "partOfTerm": "1",
+        "courseNumber": "1201",
+        "subject": "ACCT",
+        "subjectDescription": "Accounting",
+        "sequenceNumber": "05",
+        "campusDescription": "Boston",
+        "scheduleTypeDescription": "Lecture",
+        "courseTitle": "Financial Accounting and Reporting",
+        "creditHours": null,
+        "maximumEnrollment": 40,
+        "enrollment": 40,
+        "seatsAvailable": 0,
+        "waitCapacity": 0,
+        "waitCount": 0,
+        "waitAvailable": 0,
+        "crossList": null,
+        "crossListCapacity": null,
+        "crossListCount": null,
+        "crossListAvailable": null,
+        "creditHourHigh": null,
+        "creditHourLow": 4,
+        "creditHourIndicator": null,
+        "openSection": false,
+        "linkIdentifier": null,
+        "isSectionLinked": false,
+        "subjectCourse": "ACCT1201",
+        "faculty": 
+        [
+          {
+            "bannerId": "846989",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "10587",
+            "displayName": "Ahn, Jaehan",
+            "emailAddress": null,
+            "primaryIndicator": true,
+            "term": "201910"
+          }
+        ],
+        "meetingsFaculty": 
+        [
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "10587",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1030",
+              "building": "SN",
+              "buildingDescription": "Snell Engineering Center",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "10587",
+              "creditHourSession": 0.0,
+              "endDate": "12/10/2018",
+              "endTime": "1230",
+              "friday": false,
+              "hoursWeek": 2.0,
+              "meetingScheduleType": "LEC",
+              "meetingType": "FNEX",
+              "meetingTypeDescription": "Final Exam",
+              "monday": true,
+              "room": "168",
+              "saturday": false,
+              "startDate": "12/10/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": false,
+              "tuesday": false,
+              "wednesday": false
+            },
+            "term": "201910"
+          },
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "10587",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1635",
+              "building": "HA",
+              "buildingDescription": "Hayden Hall",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "10587",
+              "creditHourSession": 4.0,
+              "endDate": "12/05/2018",
+              "endTime": "1740",
+              "friday": false,
+              "hoursWeek": 3.25,
+              "meetingScheduleType": "LEC",
+              "meetingType": "CLAS",
+              "meetingTypeDescription": "Class",
+              "monday": true,
+              "room": "322",
+              "saturday": false,
+              "startDate": "09/05/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": true,
+              "tuesday": false,
+              "wednesday": true
+            },
+            "term": "201910"
+          }
+        ],
+        "reservedSeatSummary": null,
+        "sectionAttributes": 
+        [
+          {
+            "class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+            "code": "UBBA",
+            "courseReferenceNumber": "10587",
+            "description": "Business Admin",
+            "isZTCAttribute": false,
+            "termCode": "201910"
+          }
+        ]
+      },
+      {
+        "id": 192376,
+        "term": "201910",
+        "termDesc": "Fall 2018 Semester",
+        "courseReferenceNumber": "10586",
+        "partOfTerm": "1",
+        "courseNumber": "1201",
+        "subject": "ACCT",
+        "subjectDescription": "Accounting",
+        "sequenceNumber": "06",
+        "campusDescription": "Boston",
+        "scheduleTypeDescription": "Lecture",
+        "courseTitle": "Financial Accounting and Reporting",
+        "creditHours": null,
+        "maximumEnrollment": 40,
+        "enrollment": 38,
+        "seatsAvailable": 2,
+        "waitCapacity": 0,
+        "waitCount": 0,
+        "waitAvailable": 0,
+        "crossList": null,
+        "crossListCapacity": null,
+        "crossListCount": null,
+        "crossListAvailable": null,
+        "creditHourHigh": null,
+        "creditHourLow": 4,
+        "creditHourIndicator": null,
+        "openSection": true,
+        "linkIdentifier": null,
+        "isSectionLinked": false,
+        "subjectCourse": "ACCT1201",
+        "faculty": 
+        [
+          {
+            "bannerId": "847075",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "10586",
+            "displayName": "Goldberg, Samuel",
+            "emailAddress": "goldberg.sam@northeastern.edu",
+            "primaryIndicator": false,
+            "term": "201910"
+          },
+          {
+            "bannerId": "847076",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "10586",
+            "displayName": "The, Austin",
+            "emailAddress": "the.a@northeastern.edu",
+            "primaryIndicator": false,
+            "term": "201910"
+          },
+          {
+            "bannerId": "846990",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "10586",
+            "displayName": "McAllister, Michelle",
+            "emailAddress": null,
+            "primaryIndicator": true,
+            "term": "201910"
+          }
+        ],
+        "meetingsFaculty": 
+        [
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "10586",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "0800",
+              "building": "HA",
+              "buildingDescription": "Hayden Hall",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "10586",
+              "creditHourSession": 4.0,
+              "endDate": "12/05/2018",
+              "endTime": "0905",
+              "friday": false,
+              "hoursWeek": 3.25,
+              "meetingScheduleType": "LEC",
+              "meetingType": "CLAS",
+              "meetingTypeDescription": "Class",
+              "monday": true,
+              "room": "221",
+              "saturday": false,
+              "startDate": "09/05/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": true,
+              "tuesday": false,
+              "wednesday": true
+            },
+            "term": "201910"
+          },
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "10586",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1030",
+              "building": "SN",
+              "buildingDescription": "Snell Engineering Center",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "10586",
+              "creditHourSession": 0.0,
+              "endDate": "12/10/2018",
+              "endTime": "1230",
+              "friday": false,
+              "hoursWeek": 2.0,
+              "meetingScheduleType": "LEC",
+              "meetingType": "FNEX",
+              "meetingTypeDescription": "Final Exam",
+              "monday": true,
+              "room": "108",
+              "saturday": false,
+              "startDate": "12/10/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": false,
+              "tuesday": false,
+              "wednesday": false
+            },
+            "term": "201910"
+          }
+        ],
+        "reservedSeatSummary": null,
+        "sectionAttributes": 
+        [
+          {
+            "class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+            "code": "UBBA",
+            "courseReferenceNumber": "10586",
+            "description": "Business Admin",
+            "isZTCAttribute": false,
+            "termCode": "201910"
+          }
+        ]
+      },
+      {
+        "id": 193139,
+        "term": "201910",
+        "termDesc": "Fall 2018 Semester",
+        "courseReferenceNumber": "11349",
+        "partOfTerm": "1",
+        "courseNumber": "1201",
+        "subject": "ACCT",
+        "subjectDescription": "Accounting",
+        "sequenceNumber": "07",
+        "campusDescription": "Boston",
+        "scheduleTypeDescription": "Lecture",
+        "courseTitle": "Financial Accounting and Reporting",
+        "creditHours": null,
+        "maximumEnrollment": 40,
+        "enrollment": 40,
+        "seatsAvailable": 0,
+        "waitCapacity": 0,
+        "waitCount": 0,
+        "waitAvailable": 0,
+        "crossList": null,
+        "crossListCapacity": null,
+        "crossListCount": null,
+        "crossListAvailable": null,
+        "creditHourHigh": null,
+        "creditHourLow": 4,
+        "creditHourIndicator": null,
+        "openSection": false,
+        "linkIdentifier": null,
+        "isSectionLinked": false,
+        "subjectCourse": "ACCT1201",
+        "faculty": 
+        [
+          {
+            "bannerId": "847075",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "11349",
+            "displayName": "Goldberg, Samuel",
+            "emailAddress": "goldberg.sam@northeastern.edu",
+            "primaryIndicator": false,
+            "term": "201910"
+          },
+          {
+            "bannerId": "847076",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "11349",
+            "displayName": "The, Austin",
+            "emailAddress": "the.a@northeastern.edu",
+            "primaryIndicator": false,
+            "term": "201910"
+          },
+          {
+            "bannerId": "846990",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "11349",
+            "displayName": "McAllister, Michelle",
+            "emailAddress": null,
+            "primaryIndicator": true,
+            "term": "201910"
+          }
+        ],
+        "meetingsFaculty": 
+        [
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "11349",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "0915",
+              "building": "HA",
+              "buildingDescription": "Hayden Hall",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "11349",
+              "creditHourSession": 4.0,
+              "endDate": "12/05/2018",
+              "endTime": "1020",
+              "friday": false,
+              "hoursWeek": 3.25,
+              "meetingScheduleType": "LEC",
+              "meetingType": "CLAS",
+              "meetingTypeDescription": "Class",
+              "monday": true,
+              "room": "221",
+              "saturday": false,
+              "startDate": "09/05/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": true,
+              "tuesday": false,
+              "wednesday": true
+            },
+            "term": "201910"
+          },
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "11349",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1030",
+              "building": "SN",
+              "buildingDescription": "Snell Engineering Center",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "11349",
+              "creditHourSession": 0.0,
+              "endDate": "12/10/2018",
+              "endTime": "1230",
+              "friday": false,
+              "hoursWeek": 2.0,
+              "meetingScheduleType": "LEC",
+              "meetingType": "FNEX",
+              "meetingTypeDescription": "Final Exam",
+              "monday": true,
+              "room": "108",
+              "saturday": false,
+              "startDate": "12/10/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": false,
+              "tuesday": false,
+              "wednesday": false
+            },
+            "term": "201910"
+          }
+        ],
+        "reservedSeatSummary": null,
+        "sectionAttributes": 
+        [
+          {
+            "class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+            "code": "UBBA",
+            "courseReferenceNumber": "11349",
+            "description": "Business Admin",
+            "isZTCAttribute": false,
+            "termCode": "201910"
+          }
+        ]
+      },
+      {
+        "id": 194056,
+        "term": "201910",
+        "termDesc": "Fall 2018 Semester",
+        "courseReferenceNumber": "12266",
+        "partOfTerm": "1",
+        "courseNumber": "1201",
+        "subject": "ACCT",
+        "subjectDescription": "Accounting",
+        "sequenceNumber": "08",
+        "campusDescription": "Boston",
+        "scheduleTypeDescription": "Lecture",
+        "courseTitle": "Financial Accounting and Reporting",
+        "creditHours": null,
+        "maximumEnrollment": 40,
+        "enrollment": 40,
+        "seatsAvailable": 0,
+        "waitCapacity": 0,
+        "waitCount": 0,
+        "waitAvailable": 0,
+        "crossList": null,
+        "crossListCapacity": null,
+        "crossListCount": null,
+        "crossListAvailable": null,
+        "creditHourHigh": null,
+        "creditHourLow": 4,
+        "creditHourIndicator": null,
+        "openSection": false,
+        "linkIdentifier": null,
+        "isSectionLinked": false,
+        "subjectCourse": "ACCT1201",
+        "faculty": 
+        [
+          {
+            "bannerId": "837783",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "12266",
+            "displayName": "Williams, Christina",
+            "emailAddress": null,
+            "primaryIndicator": true,
+            "term": "201910"
+          }
+        ],
+        "meetingsFaculty": 
+        [
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "12266",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1030",
+              "building": "SH",
+              "buildingDescription": "Shillman Hall",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "12266",
+              "creditHourSession": 0.0,
+              "endDate": "12/10/2018",
+              "endTime": "1230",
+              "friday": false,
+              "hoursWeek": 2.0,
+              "meetingScheduleType": "LEC",
+              "meetingType": "FNEX",
+              "meetingTypeDescription": "Final Exam",
+              "monday": true,
+              "room": "420",
+              "saturday": false,
+              "startDate": "12/10/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": false,
+              "tuesday": false,
+              "wednesday": false
+            },
+            "term": "201910"
+          },
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "12266",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1635",
+              "building": "DG",
+              "buildingDescription": "Dodge Hall",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "12266",
+              "creditHourSession": 4.0,
+              "endDate": "12/05/2018",
+              "endTime": "1740",
+              "friday": false,
+              "hoursWeek": 3.25,
+              "meetingScheduleType": "LEC",
+              "meetingType": "CLAS",
+              "meetingTypeDescription": "Class",
+              "monday": true,
+              "room": "119",
+              "saturday": false,
+              "startDate": "09/05/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": true,
+              "tuesday": false,
+              "wednesday": true
+            },
+            "term": "201910"
+          }
+        ],
+        "reservedSeatSummary": null,
+        "sectionAttributes": 
+        [
+          {
+            "class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+            "code": "UBBA",
+            "courseReferenceNumber": "12266",
+            "description": "Business Admin",
+            "isZTCAttribute": false,
+            "termCode": "201910"
+          }
+        ]
+      },
+      {
+        "id": 194248,
+        "term": "201910",
+        "termDesc": "Fall 2018 Semester",
+        "courseReferenceNumber": "12458",
+        "partOfTerm": "1",
+        "courseNumber": "1201",
+        "subject": "ACCT",
+        "subjectDescription": "Accounting",
+        "sequenceNumber": "09",
+        "campusDescription": "Boston",
+        "scheduleTypeDescription": "Lecture",
+        "courseTitle": "Financl Acctg &amp; Reporting",
+        "creditHours": null,
+        "maximumEnrollment": 40,
+        "enrollment": 39,
+        "seatsAvailable": 1,
+        "waitCapacity": 0,
+        "waitCount": 0,
+        "waitAvailable": 0,
+        "crossList": null,
+        "crossListCapacity": null,
+        "crossListCount": null,
+        "crossListAvailable": null,
+        "creditHourHigh": null,
+        "creditHourLow": 4,
+        "creditHourIndicator": null,
+        "openSection": true,
+        "linkIdentifier": null,
+        "isSectionLinked": false,
+        "subjectCourse": "ACCT1201",
+        "faculty": 
+        [
+          {
+            "bannerId": "836917",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "12458",
+            "displayName": "Ginsberg, Laurance",
+            "emailAddress": null,
+            "primaryIndicator": true,
+            "term": "201910"
+          }
+        ],
+        "meetingsFaculty": 
+        [
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "12458",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1030",
+              "building": "DG",
+              "buildingDescription": "Dodge Hall",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "12458",
+              "creditHourSession": 4.0,
+              "endDate": "12/05/2018",
+              "endTime": "1135",
+              "friday": false,
+              "hoursWeek": 3.25,
+              "meetingScheduleType": "LEC",
+              "meetingType": "CLAS",
+              "meetingTypeDescription": "Class",
+              "monday": true,
+              "room": "070",
+              "saturday": false,
+              "startDate": "09/05/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": true,
+              "tuesday": false,
+              "wednesday": true
+            },
+            "term": "201910"
+          },
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "12458",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1030",
+              "building": "MU",
+              "buildingDescription": "Mugar Life Science Building",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "12458",
+              "creditHourSession": 0.0,
+              "endDate": "12/10/2018",
+              "endTime": "1230",
+              "friday": false,
+              "hoursWeek": 2.0,
+              "meetingScheduleType": "LEC",
+              "meetingType": "FNEX",
+              "meetingTypeDescription": "Final Exam",
+              "monday": true,
+              "room": "201",
+              "saturday": false,
+              "startDate": "12/10/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": false,
+              "tuesday": false,
+              "wednesday": false
+            },
+            "term": "201910"
+          }
+        ],
+        "reservedSeatSummary": null,
+        "sectionAttributes": 
+        [
+          {
+            "class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+            "code": "UBBA",
+            "courseReferenceNumber": "12458",
+            "description": "Business Admin",
+            "isZTCAttribute": false,
+            "termCode": "201910"
+          }
+        ]
+      },
+      {
+        "id": 194249,
+        "term": "201910",
+        "termDesc": "Fall 2018 Semester",
+        "courseReferenceNumber": "12459",
+        "partOfTerm": "1",
+        "courseNumber": "1201",
+        "subject": "ACCT",
+        "subjectDescription": "Accounting",
+        "sequenceNumber": "10",
+        "campusDescription": "Boston",
+        "scheduleTypeDescription": "Lecture",
+        "courseTitle": "Fin Accounting&amp;Reporting (HON)",
+        "creditHours": null,
+        "maximumEnrollment": 19,
+        "enrollment": 19,
+        "seatsAvailable": 0,
+        "waitCapacity": 0,
+        "waitCount": 0,
+        "waitAvailable": 0,
+        "crossList": null,
+        "crossListCapacity": null,
+        "crossListCount": null,
+        "crossListAvailable": null,
+        "creditHourHigh": null,
+        "creditHourLow": 4,
+        "creditHourIndicator": null,
+        "openSection": false,
+        "linkIdentifier": null,
+        "isSectionLinked": false,
+        "subjectCourse": "ACCT1201",
+        "faculty": 
+        [
+          {
+            "bannerId": "836917",
+            "category": null,
+            "class": "net.hedtech.banner.student.faculty.FacultyResultDecorator",
+            "courseReferenceNumber": "12459",
+            "displayName": "Ginsberg, Laurance",
+            "emailAddress": null,
+            "primaryIndicator": true,
+            "term": "201910"
+          }
+        ],
+        "meetingsFaculty": 
+        [
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "12459",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1030",
+              "building": "MU",
+              "buildingDescription": "Mugar Life Science Building",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "12459",
+              "creditHourSession": 0.0,
+              "endDate": "12/10/2018",
+              "endTime": "1230",
+              "friday": false,
+              "hoursWeek": 2.0,
+              "meetingScheduleType": "LEC",
+              "meetingType": "FNEX",
+              "meetingTypeDescription": "Final Exam",
+              "monday": true,
+              "room": "201",
+              "saturday": false,
+              "startDate": "12/10/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": false,
+              "tuesday": false,
+              "wednesday": false
+            },
+            "term": "201910"
+          },
+          {
+            "category": "01",
+            "class": "net.hedtech.banner.student.schedule.SectionSessionDecorator",
+            "courseReferenceNumber": "12459",
+            "faculty": 
+            [
+            ],
+            "meetingTime": {
+              "beginTime": "1335",
+              "building": "DG",
+              "buildingDescription": "Dodge Hall",
+              "campus": "BOS",
+              "campusDescription": "Boston",
+              "category": "01",
+              "class": "net.hedtech.banner.general.overall.MeetingTimeDecorator",
+              "courseReferenceNumber": "12459",
+              "creditHourSession": 4.0,
+              "endDate": "12/05/2018",
+              "endTime": "1440",
+              "friday": false,
+              "hoursWeek": 3.25,
+              "meetingScheduleType": "LEC",
+              "meetingType": "CLAS",
+              "meetingTypeDescription": "Class",
+              "monday": true,
+              "room": "170",
+              "saturday": false,
+              "startDate": "09/05/2018",
+              "sunday": false,
+              "term": "201910",
+              "thursday": true,
+              "tuesday": false,
+              "wednesday": true
+            },
+            "term": "201910"
+          }
+        ],
+        "reservedSeatSummary": null,
+        "sectionAttributes": 
+        [
+          {
+            "class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+            "code": "GNHN",
+            "courseReferenceNumber": "12459",
+            "description": "Honors",
+            "isZTCAttribute": false,
+            "termCode": "201910"
+          },
+          {
+            "class": "net.hedtech.banner.student.schedule.SectionDegreeProgramAttributeDecorator",
+            "code": "UBBA",
+            "courseReferenceNumber": "12459",
+            "description": "Business Admin",
+            "isZTCAttribute": false,
+            "termCode": "201910"
+          }
+        ]
+      }
+    ]
+  }
