@@ -25,7 +25,7 @@ class BannerRunner:
         self.courseDataDict = defaultdict(dict)
         self.workbooks = list()
 
-    def Text(self, dirty:str):
+    def TextCleaner(self, dirty:str):
         dirty = dirty.replace("&#39;", "\'")
         dirty = dirty.replace("&amp;", "AAA")
         return dirty
@@ -65,7 +65,20 @@ class BannerRunner:
             for subject in self.subjects:
                 self.JsonToCourseData(semester, subject)
         
-    
+    def WidthSetter(worksheet):
+        '''
+        Citation: Bufke & Eli, Stack Overflow
+        https://stackoverflow.com/questions/13197574/openpyxl-adjust-column-width-size
+        '''
+        dims = {}
+        for row in worksheet.rows:
+            for cell in row:
+                    dims[cell.column_letter] = max((dims.get(cell.column_letter, 0), len(str(cell.value)), 15))
+                    
+        for col, value in dims.items():
+            worksheet.column_dimensions[col].width = value
+        
+
     def MoveAllCourseDataToExcel(self):
         for subject in self.subjects:
             workbook = Workbook()
@@ -86,6 +99,7 @@ class BannerRunner:
                             "Campus", 
                             "Status - remaining seats",
                             "Status - total seats"))
+                
                 # Make first row bold
                 for item in sheet[1]:
                     item.font = Font(bold=True)
@@ -95,7 +109,12 @@ class BannerRunner:
                     sheet.append(row)
 
 
-            # Save Excel Sheet
+
+                BannerRunner.WidthSetter(sheet)
+            
+
+
+            # Save Excel File
             workbook.save(filename="RA Bart " + subject + ".xlsx")
 
 
@@ -110,6 +129,7 @@ def main():
     Runner = BannerRunner(allClasses)
     Runner.MoveAllJsonToCourseData()
     Runner.MoveAllCourseDataToExcel()
+
 
     
 
