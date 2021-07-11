@@ -25,28 +25,31 @@ class BannerRunner:
         self.courseDataDict = defaultdict(dict)
         self.workbooks = list()
 
-    
+    def Text(self, dirty:str):
+        dirty = dirty.replace("&#39;", "\'")
+        dirty = dirty.replace("&amp;", "AAA")
+        return dirty
+
+
+
     def JsonToCourseData(self, semester:str, subject:str):
         with open(semester+'.json','r') as file:
             # turn json file into big string
             content = file.read()
             # make replacements to content string
-            clean = content.replace("&#39;", "\'")
-            clean = clean.replace("&amp;", "AAA")
+            clean = self.TextCleaner(content)
             #clean = clean.replace("amp;", "")
             # turn string into json formatted dictonary
             data = json.loads(clean)["data"]
             courseData = list()
-            print(courseData)
             for i in range(0,len(data)):
-                print(data[i]['subjectDescription'], " --- ", subject)
                 if data[i]['subjectDescription']==subject:
                     courseData.append((data[i]["courseTitle"],
                                 data[i]["subjectDescription"],
                                 int(data[i]["courseNumber"]),
                                 int(data[i]["sequenceNumber"]),
                                 int(data[i]["creditHourLow"]),
-                                data[i]["termDesc"].replace(" semester", ""),
+                                data[i]["termDesc"].replace(" Semester", ""),
                                 int(data[i]["faculty"][0]["courseReferenceNumber"]),
                                 data[i]["faculty"][0]["displayName"],
                                 data[i]["campusDescription"],
